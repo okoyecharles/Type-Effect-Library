@@ -21,7 +21,7 @@ const newText = new Typed()
 - [x] The First Parameter should be the selector of the text element ( In my case a span with a class of `auto-text` ).
 **Note:** Elements are selected with the `querySelector` method.
 ```javascript
-const newText = new Typed('.auto-text'}
+const newText = new Typed('.auto-text')
 ```
 ---
 - [x] The Second Parameter is an object that takes in five Key-Value pairs (one mandatory, four optional) as shown below.

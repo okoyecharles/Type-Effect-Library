@@ -55,15 +55,15 @@ const newText = new Typed('.auto-text', {
   - [x] CSS
   - [x] JavaScript
 
-## Live [⇗](https://okoyecharles.github.io/Todo-List/)
+## Live [⇗](https://okoyecharles.github.io/Type-Effect-Library/)
 
-[Click here to see the Tool on the Live on The Web](https://okoyecharles.github.io/Todo-List/)
+[Click here to see the Tool on the Live on The Web](https://okoyecharles.github.io/Type-Effect-Library/)
 
 
 ## Taking Actions
 **Instructions on how to access this tool locally:** 
 > To Access my project locally please follow the instructions listed below
-- Enter this url: [https://github.com/OkoyeCharles/Todo-List](https://github.com/OkoyeCharles/Todo-List) in your web browser.
+- Enter this url: [https://github.com/OkoyeCharles/Type-Effect-Library](https://github.com/OkoyeCharles/Type-Effect-Library) in your web browser.
 - Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
 - Select download Zip option from drop down menu.
 - Once the download is complete you will be able to access the tool locally 😀. 

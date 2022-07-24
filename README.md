@@ -5,6 +5,9 @@
 ## Tool Preview
 Here is a preview
 
+https://user-images.githubusercontent.com/102174805/180654050-bc75119b-5224-4e08-9659-dbf218c28549.mp4
+
+
 
 ## How To Use
 Below is a brief tutorial on how to use this Tool.

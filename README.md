@@ -5,6 +5,9 @@
 ## Tool Preview
 Here is a preview
 
+https://user-images.githubusercontent.com/102174805/180654050-bc75119b-5224-4e08-9659-dbf218c28549.mp4
+
+
 
 ## How To Use
 Below is a brief tutorial on how to use this Tool.
@@ -18,7 +21,7 @@ const newText = new Typed()
 - [x] The First Parameter should be the selector of the text element ( In my case a span with a class of `auto-text` ).
 **Note:** Elements are selected with the `querySelector` method.
 ```javascript
-const newText = new Typed('.auto-text'}
+const newText = new Typed('.auto-text')
 ```
 ---
 - [x] The Second Parameter is an object that takes in five Key-Value pairs (one mandatory, four optional) as shown below.
@@ -55,15 +58,15 @@ const newText = new Typed('.auto-text', {
   - [x] CSS
   - [x] JavaScript
 
-## Live [⇗](https://okoyecharles.github.io/Todo-List/)
+## Live [⇗](https://okoyecharles.github.io/Type-Effect-Library/)
 
-[Click here to see the Tool on the Live on The Web](https://okoyecharles.github.io/Todo-List/)
+[Click here to see the Tool on the Live on The Web](https://okoyecharles.github.io/Type-Effect-Library/)
 
 
 ## Taking Actions
 **Instructions on how to access this tool locally:** 
 > To Access my project locally please follow the instructions listed below
-- Enter this url: [https://github.com/OkoyeCharles/Todo-List](https://github.com/OkoyeCharles/Todo-List) in your web browser.
+- Enter this url: [https://github.com/OkoyeCharles/Type-Effect-Library](https://github.com/OkoyeCharles/Type-Effect-Library) in your web browser.
 - Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
 - Select download Zip option from drop down menu.
 - Once the download is complete you will be able to access the tool locally 😀. 
